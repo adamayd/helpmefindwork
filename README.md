@@ -4,7 +4,7 @@ Help Me Find Work is a utility site for logging applications and cover letters s
 
 In an attempt to ramp up as quickly as possible and use the application myself, MVP will consist of manual entry and limited form fields.  Expanded forms, database functionality and API use/scraping will come later.
 
-## Firebase Note
+### Firebase Note
 
 There is a missing file from the project at `src/firebase.js` to protect my API key until testing is done.  It should look something similiar to:
 ```
@@ -24,7 +24,7 @@ firebase.initializeApp(config);
 export default firebase;
 ```
 
-### Technologies
+## Technologies
 
 * React 
 * Create-React-App
